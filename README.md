@@ -1,6 +1,6 @@
 # Hi! This is Chandan U 
 
-**⚙️ Software Developer | 🛠️ Open-Source Contributor | 💻 Tech Enthusiast**
+**⚙️ Software Developer | 💻 Tech Enthusiast**
 
 #### My portfolio:- https://chandan-dev-portfolio.netlify.app/
 
